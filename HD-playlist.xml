@@ -5,4 +5,33 @@
 <thumbnail>https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/icon.png</thumbnail>
 <fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
 </item>
-
+item>
+<title>HD Music</title>
+<link>http://hdstream.one.by/</link>
+<thumbnail>https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/icon.png</thumbnail>
+<fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
+</item>
+<item>
+<title>Deluxe Music</title>
+<link>http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com//Weedhead/HD-Music/blob/master/deluxmus.png</thumbnail>
+<fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
+</item>
+<item>
+<title>Vevo 1</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/vevo.png</thumbnail>
+<fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
+</item>
+<item>
+<title>Vevo 2</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/vevo.png</thumbnail>
+<fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
+</item>
+<item>
+<title>Vevo 3</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/vevo.png</thumbnail>
+<fanart>/https://raw.githubusercontent.com/Weedhead/HD-Music/blob/master/fanart.jpg</fanart>
+</item>
