@@ -33,4 +33,8 @@
 <link>http://92.50.181.6/tv/1281/index.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/220px-VH1_logonew.svg.png</thumbnail>
 </item>
-
+<item>
+<title>NRJ Hits</title>
+<link>http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8</link>
+<thumbnail>http://www.nrj.be/images/NRJ-Hits-Tv.png</thumbnail>
+</item>
