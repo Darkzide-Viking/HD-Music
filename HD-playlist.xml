@@ -4,50 +4,7 @@
 <thumbnail>http://imgur.com/0cuxuy1.png</thumbnail>
 </item>
 <item>
-<title>Capital Music</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
-</item>
-<item>
-<title>Vevo 1</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png</thumbnail>
-</item>
-<item>
-<title>Vevo 2</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png</thumbnail>
-</item>
-<item>
-<title>Vevo 3</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-pSTjDlSgahQ/VVsbLaM40NI/AAAAAAAAHvU/wr8F9v9gPoE/s1600/Vevo.png</thumbnail>
-</item>
-<item>
-<title>MTV Dance </title>
-<link>http://92.50.181.6/tv/1280/index.m3u8</link>
-<thumbnail>http://www.viktoriya-fitness.ru/img/mtv-dance-2.jpg</thumbnail>
-</item>
-<item>
-<title>MTV Rock </title>
-<link>http://92.50.181.6/tv/1279/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png</thumbnail>
-</item>
-<item>
-<title>VH1 Classic </title>
-<link>http://92.50.181.6/tv/1282/index.m3u8</link>
-<thumbnail>http://imgur.com/XbUja2N.png</thumbnail>
-</item>
-<item>
-<title>VH1 Hits </title>
-<link>http://92.50.181.6/tv/1281/index.m3u8</link>
-<thumbnail>http://www.apknow.com/wp-content/uploads/2014/12/VH1.png</thumbnail>
-</item>
-<item>
-<title>NRJ Hits</title>
-<link>http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8</link>
-<thumbnail>http://www.nrj.be/images/NRJ-Hits-Tv.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR gold]******TESTING-AREA******[/COLOR]</title>
 <link>http://arcttv1sr105.se.ys1-sslive.ds.cdn.yousee.tv/Content/SS/Live/Channel(Kanal5).isml/QualityLevels(128000)/Fragments(audio_dan=1736305560195772)|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
